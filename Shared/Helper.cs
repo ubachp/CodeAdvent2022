@@ -14,7 +14,7 @@
             return input;
         }
 
-        public static void PrintResults(string part1Label, int part1, string part2Label, int part2)
+        public static void PrintResults(string part1Label, object part1, string part2Label, object part2)
         {
             Console.Write($"\tPart1 {part1Label}: ");
             Console.ForegroundColor = ConsoleColor.Green;
