@@ -13,7 +13,8 @@ namespace CodeAdvent2022
             //await new Day04(Cookie).Solve();
             //await new Day05(Cookie).Solve();
             //await new Day06(Cookie).Solve();
-            await new Day07(Cookie).Solve();
+            //await new Day07(Cookie).Solve();
+            await new Day08(Cookie).Solve();
         }
     }
 }
